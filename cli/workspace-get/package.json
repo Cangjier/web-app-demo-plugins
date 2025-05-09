@@ -1,0 +1,6 @@
+{
+    "Name": "workspace-get",
+    "Entry": "{.}/workspace.json",
+    "Type": "File",
+    "Priority": -1
+}

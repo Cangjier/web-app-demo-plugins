@@ -1,0 +1,22 @@
+[
+    "# Settings",
+    {
+        "type": "tab",
+        "text": "Workspace",
+        "children": [
+            "## Workspace",
+            {
+                "type": "card",
+                "children": [
+                    {
+                        "type": "line-input",
+                        "text": "Workspace:",
+                        "valueKey": "Workspace",
+                        "getter": "$plugin:workspace-get",
+                        "setter": "$plugin:workspace-set"
+                    }
+                ]
+            }
+        ]
+    }
+]
