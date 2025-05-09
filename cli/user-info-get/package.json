@@ -1,0 +1,5 @@
+{
+    "Name": "user-info-get",
+    "Entry": "{.}/index.ts",
+    "Type": "TypeSharp"
+}
