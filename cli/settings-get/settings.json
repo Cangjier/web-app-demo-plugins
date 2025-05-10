@@ -2,9 +2,9 @@
     "# Settings",
     {
         "type": "tab",
-        "text": "Workspace",
+        "text": "Basic",
         "children": [
-            "## Workspace",
+            "## Basic",
             {
                 "type": "card",
                 "children": [

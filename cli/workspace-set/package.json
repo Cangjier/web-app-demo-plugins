@@ -1,6 +1,6 @@
 {
     "Name": "workspace-set",
-    "Entry": "{..}/workspace.txt",
+    "Entry": "{..}/workspace.json",
     "Type": "FileWrite",
     "Priority": -1
 }
