@@ -1,6 +1,9 @@
 {
     "Name": "workspace-get",
-    "Entry": "{..}/workspace.json",
+    "Entry": "{userprofile}/.web-app-demo/workspace.json",
     "Type": "File",
-    "Priority": -1
+    "Priority": -1,
+    "default": {
+        "defaultValue": ""
+    }
 }
