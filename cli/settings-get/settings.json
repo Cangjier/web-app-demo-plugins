@@ -2,19 +2,13 @@
     "# Settings",
     {
         "type": "tab",
-        "text": "Basic",
+        "text": "Readme",
         "children": [
-            "## Basic",
+            "# Welcome",
             {
                 "type": "card",
                 "children": [
-                    {
-                        "type": "line-input",
-                        "text": "Workspace:",
-                        "valueKey": "Workspace",
-                        "getter": "$plugin:workspace-get",
-                        "setter": "$plugin:workspace-set"
-                    }
+                    "欢迎使用"
                 ]
             }
         ]
